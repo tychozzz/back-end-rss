@@ -214,7 +214,7 @@ const loadData = async () => {
       })
 
       let isInTag = false
-      tags.forEach((tagItem: Tag) => {
+      tags.forEach((tagItem: any) => {
         if (tagItem.keywords && (new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
           isInTag = true
           if (!tagsMap.get(tagItem.tag)) {
