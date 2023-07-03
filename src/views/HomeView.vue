@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <!-- 搜索框 -->
-    <van-search class="search-box" v-model="keyword" placeholder="搜索 AI 技术文章" shape="round" show-action @search="onSearch"
+    <van-search class="search-box" v-model="keyword" placeholder="搜索后端技术文章" shape="round" show-action @search="onSearch"
       @cancel="onCancle">
 
     </van-search>
