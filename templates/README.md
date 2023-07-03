@@ -1,0 +1,61 @@
+<p align="center">
+  <img width="100" src="./public/favicon.ico" />
+</p>
+<div align="center">
+ 
+# Back End RSS
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable-next-line MD036 -->
+✨ 定时抓取热门前沿后端文章 ✨
+<!-- prettier-ignore-end -->
+
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/ltyzzzxxx/back-end-rss?display_name=tag" />
+  <img src="https://img.shields.io/github/stars/ltyzzzxxx/back-end-rss" />
+  <img src="https://img.shields.io/github/forks/ltyzzzxxx/back-end-rss" />
+  <img src="https://img.shields.io/github/issues/ltyzzzxxx/back-end-rss" />
+  <img src="https://img.shields.io/badge/license-Apache%20-yellow.svg" />
+</p>
+
+</div>
+
+## 
+
+Back End RSS 在线浏览：[https://back-end-rss.vercel.app/](https://back-end-rss.vercel.app/)
+
+:alarm_clock: 更新时间: <%= obj.currentDate %>
+
+:rocket: 更新条数: +<%= obj.newData.length %> - ![](/assets/dot.png) 表示有更新
+
+## 查看文章
+
+- [文章来源](/CATEGORIES.md)
+
+- [文章标签](/TAGS.md)
+
+## 功能概览
+
+- 采用 Vue3 与 Vant UI 组件库，支持 PC端/移动端 适配，支持搜索、筛选功能
+
+- 采用 Node.js 定时任务，每日定时更新文章
+
+## 贡献指南
+
+如果你有高质量的 GPT 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/ltyzzzxxx/back-end-rss/issues)，我会及时进行更新，感谢分享！
+
+目前只收录了 Java 与计算机编程基础相关的文章，欢迎大家分享其它高质量内容～
+
+## GPT RSS 推荐
+
+> 定时抓取 AIGC/GPT/LLM 前沿文章推荐
+> 
+> GPT RSS Github 地址：https://github.com/ltyzzzxxx/gpt-rss
+>
+> GPT RSS 在线浏览: [https://gpt-rss.vercel.app/](https://gpt-rss.vercel.app/)
+
+## 特别鸣谢
+
+感谢 [Front End RSS](https://github.com/ChanceYu/front-end-rss) 提供的开源项目
+
+感谢 [RSSHub](https://github.com/DIYgod/RSSHub) 提供的微信公众号 RSS 链接

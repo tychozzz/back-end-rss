@@ -1,0 +1,30 @@
+[
+  {
+    "title": "美团技术",
+    "rss": "https://tech.meituan.com/feed/"
+  },
+  {
+    "title": "阿里技术",
+    "rss": "https://rsshub.app/wechat/ce/59e106a8f91dd15d8d260969"
+  },
+  {
+    "title": "阿里巴巴中间件",
+    "rss": "https://rsshub.app/wechat/ce/5c8e50a76e7ef84203526d9e"
+  },
+  {
+    "title": "Thoughtworks洞见",
+    "rss": "https://insights.thoughtworks.cn/feed/"
+  },
+  {
+    "title": "高可用架构",
+    "rss": "https://rsshub.app/wechat/ce/5c50addbab88e5587d4056cd"
+  },
+  {
+    "title": "阮一峰的网络日志",
+    "rss": "http://www.ruanyifeng.com/blog/atom.xml"
+  },
+  {
+    "title": "有赞技术团队",
+    "rss": "https://tech.youzan.com/rss/"
+  }
+]
