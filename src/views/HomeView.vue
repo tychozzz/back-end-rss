@@ -190,7 +190,7 @@ const toTop = () => {
 }
 
 const gotoGithub = () => {
-  window.location.href = "https://github.com/ltyzzzxxx/gpt-rss"
+  window.location.href = "https://github.com/ltyzzzxxx/back-end-rss"
 }
 
 const doShowPopup = () => {
