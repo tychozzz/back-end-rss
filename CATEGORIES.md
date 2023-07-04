@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-04 07:16:42，:rocket: 更新条数: +59， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-04 15:00:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)![](/assets/dot.png)   
-- [阿里技术](#阿里技术)![](/assets/dot.png)   
-- [阿里巴巴中间件](#阿里巴巴中间件)![](/assets/dot.png)   
+- [美团技术](#美团技术)  
+- [阿里技术](#阿里技术)  
+- [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
-- [高可用架构](#高可用架构)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
-- [有赞技术团队](#有赞技术团队)![](/assets/dot.png)   
+- [高可用架构](#高可用架构)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
 
@@ -20,16 +20,16 @@
 </summary>
 
 
-- [2023-06-16-CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html) ![](/assets/new.png)  
-- [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html) ![](/assets/new.png)  
-- [2023-05-26-超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html) ![](/assets/new.png)  
-- [2023-05-18-Robust-2.0：支持Android-R8的升级版热修复框架](https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html) ![](/assets/new.png)  
-- [2023-05-11-超大规模数据库集群保稳系列之一：高可用系统](https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html) ![](/assets/new.png)  
-- [2023-04-20-一次「找回」TraceId的问题分析与过程思考](https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html) ![](/assets/new.png)  
-- [2023-04-13-人机语音交互场景中的低延迟流式语音识别技术](https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html) ![](/assets/new.png)  
-- [2023-04-06-基于AI+数据驱动的慢查询索引推荐](https://tech.meituan.com/2023/04/06/slow-query-optimized-driven-by-ai-data.html) ![](/assets/new.png)  
-- [2023-03-23-ICDE-2023-|-多场景多任务学习在美团到店餐饮推荐的实践](https://tech.meituan.com/2023/03/23/recommendation-multi-scenario-task.html) ![](/assets/new.png)  
-- [2023-03-09-MRCP在美团语音交互中的实践和应用](https://tech.meituan.com/2023/03/09/practice-and-application-of-mrcp-in-voice-interaction-of-meituan.html) ![](/assets/new.png)  
+- [2023-06-16-CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)  
+- [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)  
+- [2023-05-26-超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html)  
+- [2023-05-18-Robust-2.0：支持Android-R8的升级版热修复框架](https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html)  
+- [2023-05-11-超大规模数据库集群保稳系列之一：高可用系统](https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html)  
+- [2023-04-20-一次「找回」TraceId的问题分析与过程思考](https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html)  
+- [2023-04-13-人机语音交互场景中的低延迟流式语音识别技术](https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html)  
+- [2023-04-06-基于AI+数据驱动的慢查询索引推荐](https://tech.meituan.com/2023/04/06/slow-query-optimized-driven-by-ai-data.html)  
+- [2023-03-23-ICDE-2023-|-多场景多任务学习在美团到店餐饮推荐的实践](https://tech.meituan.com/2023/03/23/recommendation-multi-scenario-task.html)  
+- [2023-03-09-MRCP在美团语音交互中的实践和应用](https://tech.meituan.com/2023/03/09/practice-and-application-of-mrcp-in-voice-interaction-of-meituan.html)  
 - [......【查看更多】......](/details/美团技术.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -41,16 +41,16 @@
 </summary>
 
 
-- [2022-04-11-Redis消息队列发展历程](https://posts.careerengine.us/p/625396243cfd29052d15b9f9) ![](/assets/new.png)  
-- [2022-04-08-Go应用单元测试实践](https://posts.careerengine.us/p/624f7c435c688a05c9f64ac6) ![](/assets/new.png)  
-- [2022-04-07-阿里大淘系模型治理阶段性分享](https://posts.careerengine.us/p/624e2ac3e6056e59e4a580fd) ![](/assets/new.png)  
-- [2022-04-06-阿里巴巴云原生混部系统-Koordinator-正式开源](https://posts.careerengine.us/p/624cd960b4976c3327bfc0bf) ![](/assets/new.png)  
-- [2022-03-30-异动分析技术解决方案—异动归因之指标拆解](https://posts.careerengine.us/p/6243d325b5b9357dbe18fc49) ![](/assets/new.png)  
-- [2022-03-29-单元测试框架和覆盖率统计原理简析](https://posts.careerengine.us/p/62426d41527d476c8564ca52) ![](/assets/new.png)  
-- [2022-03-28-前端实现多文件编译器](https://posts.careerengine.us/p/62411774723e403aa317b06f) ![](/assets/new.png)  
-- [2022-03-25-NBF事件中心架构设计与实现](https://posts.careerengine.us/p/623d270d2c3acb500bdfa003) ![](/assets/new.png)  
-- [2022-03-24-一文搞懂redis](https://posts.careerengine.us/p/623bb5b02562ae550820eaae) ![](/assets/new.png)  
-- [2022-03-23-系统性能分析从入门到进阶](https://posts.careerengine.us/p/623a64b7a198cf324b7a7ac6) ![](/assets/new.png)  
+- [2022-04-11-Redis消息队列发展历程](https://posts.careerengine.us/p/625396243cfd29052d15b9f9)  
+- [2022-04-08-Go应用单元测试实践](https://posts.careerengine.us/p/624f7c435c688a05c9f64ac6)  
+- [2022-04-07-阿里大淘系模型治理阶段性分享](https://posts.careerengine.us/p/624e2ac3e6056e59e4a580fd)  
+- [2022-04-06-阿里巴巴云原生混部系统-Koordinator-正式开源](https://posts.careerengine.us/p/624cd960b4976c3327bfc0bf)  
+- [2022-03-30-异动分析技术解决方案—异动归因之指标拆解](https://posts.careerengine.us/p/6243d325b5b9357dbe18fc49)  
+- [2022-03-29-单元测试框架和覆盖率统计原理简析](https://posts.careerengine.us/p/62426d41527d476c8564ca52)  
+- [2022-03-28-前端实现多文件编译器](https://posts.careerengine.us/p/62411774723e403aa317b06f)  
+- [2022-03-25-NBF事件中心架构设计与实现](https://posts.careerengine.us/p/623d270d2c3acb500bdfa003)  
+- [2022-03-24-一文搞懂redis](https://posts.careerengine.us/p/623bb5b02562ae550820eaae)  
+- [2022-03-23-系统性能分析从入门到进阶](https://posts.careerengine.us/p/623a64b7a198cf324b7a7ac6)  
 - [......【查看更多】......](/details/阿里技术.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -62,10 +62,10 @@
 </summary>
 
 
-- [2022-11-05-阿里巴巴重磅开源云原生网关：Higress](https://posts.careerengine.us/p/63ba4d7994a6f5671b83610e) ![](/assets/new.png)  
-- [2022-11-05-微服务引擎-MSE-升级至-3.0：降低微服务在云原生时代的演进成本](https://posts.careerengine.us/p/63ba4d7994a6f5671b8360fe) ![](/assets/new.png)  
-- [2022-01-06-ASI-2021-年双十一万级别超大规模集群的高性能提升](https://posts.careerengine.us/p/61ea46d18dd6944618d7a32c) ![](/assets/new.png)  
-- [2021-12-23-给-K8s-装上大数据调度引擎：伏羲架构升级-K8s-统一调度](https://posts.careerengine.us/p/61ea46d28dd6944618d7a33b) ![](/assets/new.png)  
+- [2022-11-05-阿里巴巴重磅开源云原生网关：Higress](https://posts.careerengine.us/p/63ba4d7994a6f5671b83610e)  
+- [2022-11-05-微服务引擎-MSE-升级至-3.0：降低微服务在云原生时代的演进成本](https://posts.careerengine.us/p/63ba4d7994a6f5671b8360fe)  
+- [2022-01-06-ASI-2021-年双十一万级别超大规模集群的高性能提升](https://posts.careerengine.us/p/61ea46d18dd6944618d7a32c)  
+- [2021-12-23-给-K8s-装上大数据调度引擎：伏羲架构升级-K8s-统一调度](https://posts.careerengine.us/p/61ea46d28dd6944618d7a33b)  
 - [......【查看更多】......](/details/阿里巴巴中间件.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -77,13 +77,14 @@
 </summary>
 
 
-- [2023-06-29-对比Cognito和Auth0](https://insights.thoughtworks.cn/how-to-choose-identity-authentication-service-cognito-auth0/) ![](/assets/new.png)  
-- [2023-06-27-Serverless-架构简述](https://insights.thoughtworks.cn/a-brief-introduction-to-serverless-architectures/) ![](/assets/new.png)  
-- [2023-06-27-拆掉数字围墙——实现信息的可访问性和易用性](https://insights.thoughtworks.cn/responsiible-tech-accessibility/) ![](/assets/new.png)  
-- [2023-06-20-大规模敏捷测试怎么做——基础篇](https://insights.thoughtworks.cn/how-to-large-scale-agile-testing-basics/) ![](/assets/new.png)  
-- [2023-06-20-上云迁移实践之行](https://insights.thoughtworks.cn/practice-trip-to-cloud-migration/) ![](/assets/new.png)  
-- [2023-06-15-如何打造-DevOps-基础设施](https://insights.thoughtworks.cn/how-to-build-devops-infrastructure/) ![](/assets/new.png)  
-- [2023-06-13-DevOps最佳实践之操作系统和服务](https://insights.thoughtworks.cn/devops-best-practices-operation-system-service/) ![](/assets/new.png)  
+- [2023-07-04-Policy-as-Code之OPA实现](https://insights.thoughtworks.cn/policy-as-code-opa/) ![](/assets/new.png)  
+- [2023-06-29-对比Cognito和Auth0](https://insights.thoughtworks.cn/how-to-choose-identity-authentication-service-cognito-auth0/)  
+- [2023-06-27-拆掉数字围墙——实现信息的可访问性和易用性](https://insights.thoughtworks.cn/responsiible-tech-accessibility/)  
+- [2023-06-27-Serverless-架构简述](https://insights.thoughtworks.cn/a-brief-introduction-to-serverless-architectures/)  
+- [2023-06-20-上云迁移实践之行](https://insights.thoughtworks.cn/practice-trip-to-cloud-migration/)  
+- [2023-06-20-大规模敏捷测试怎么做——基础篇](https://insights.thoughtworks.cn/how-to-large-scale-agile-testing-basics/)  
+- [2023-06-15-如何打造-DevOps-基础设施](https://insights.thoughtworks.cn/how-to-build-devops-infrastructure/)  
+- [2023-06-13-DevOps最佳实践之操作系统和服务](https://insights.thoughtworks.cn/devops-best-practices-operation-system-service/)  
 - [......【查看更多】......](/details/Thoughtworks洞见.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -95,16 +96,16 @@
 </summary>
 
 
-- [2017-07-07-基于Elasticsearch构建千亿流量日志搜索平台实战](https://posts.careerengine.us/p/5cb796f947792e2cd2460d99) ![](/assets/new.png)  
-- [2017-04-14-Elasticsearch前沿：ES-5.x改进详解与ES6展望](https://posts.careerengine.us/p/5cb797c12149b72dcb788d6e) ![](/assets/new.png)  
-- [2016-08-12-百姓网-Elasticsearch-2.x-升级之路](https://posts.careerengine.us/p/5cb797b52149b72dcb788d6c) ![](/assets/new.png)  
-- [2016-08-11-蘑菇街电商交易平台服务架构及改造优化历程（含PPT）](https://posts.careerengine.us/p/5c50addbab88e5587d4056d3) ![](/assets/new.png)  
-- [2016-08-08-Mercury：唯品会全链路应用监控系统解决方案详解（含PPT）](https://posts.careerengine.us/p/5c50ae002b049b59316d9dc2) ![](/assets/new.png)  
-- [2016-08-04-同程旅游缓存系统设计：如何打造Redis时代的完美体系（含PPT）](https://posts.careerengine.us/p/5c50adfb2b049b59316d9dbe) ![](/assets/new.png)  
-- [2016-07-26-近千节点的Redis-Cluster高可用集群案例：优酷蓝鲸优化实战](https://posts.careerengine.us/p/5c50aff15d87fa5be865a2b9) ![](/assets/new.png)  
-- [2016-07-20-【预告】饿了么、唯品会、蘑菇街、同程旅游同台解密互联网架构的基石](https://posts.careerengine.us/p/5c50b0142359085cf0d6fce8) ![](/assets/new.png)  
-- [2016-07-18-10个互联网团队应对高压的容量评估与高可用体系：私董会1期](https://posts.careerengine.us/p/5c50aded2b049b59316d9db3) ![](/assets/new.png)  
-- [2016-07-14-余额宝技术架构及演进](https://posts.careerengine.us/p/5c50be46628621750089ede5) ![](/assets/new.png)  
+- [2017-07-07-基于Elasticsearch构建千亿流量日志搜索平台实战](https://posts.careerengine.us/p/5cb796f947792e2cd2460d99)  
+- [2017-04-14-Elasticsearch前沿：ES-5.x改进详解与ES6展望](https://posts.careerengine.us/p/5cb797c12149b72dcb788d6e)  
+- [2016-08-12-百姓网-Elasticsearch-2.x-升级之路](https://posts.careerengine.us/p/5cb797b52149b72dcb788d6c)  
+- [2016-08-11-蘑菇街电商交易平台服务架构及改造优化历程（含PPT）](https://posts.careerengine.us/p/5c50addbab88e5587d4056d3)  
+- [2016-08-08-Mercury：唯品会全链路应用监控系统解决方案详解（含PPT）](https://posts.careerengine.us/p/5c50ae002b049b59316d9dc2)  
+- [2016-08-04-同程旅游缓存系统设计：如何打造Redis时代的完美体系（含PPT）](https://posts.careerengine.us/p/5c50adfb2b049b59316d9dbe)  
+- [2016-07-26-近千节点的Redis-Cluster高可用集群案例：优酷蓝鲸优化实战](https://posts.careerengine.us/p/5c50aff15d87fa5be865a2b9)  
+- [2016-07-20-【预告】饿了么、唯品会、蘑菇街、同程旅游同台解密互联网架构的基石](https://posts.careerengine.us/p/5c50b0142359085cf0d6fce8)  
+- [2016-07-18-10个互联网团队应对高压的容量评估与高可用体系：私董会1期](https://posts.careerengine.us/p/5c50aded2b049b59316d9db3)  
+- [2016-07-14-余额宝技术架构及演进](https://posts.careerengine.us/p/5c50be46628621750089ede5)  
 - [......【查看更多】......](/details/高可用架构.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -116,9 +117,9 @@
 </summary>
 
 
-- [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) ![](/assets/new.png)  
-- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) ![](/assets/new.png)  
-- [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html) ![](/assets/new.png)  
+- [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)  
+- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)  
+- [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -130,21 +131,21 @@
 </summary>
 
 
-- [2022-10-28-知识库检索匹配的服务化实践](https://tech.youzan.com/xiang-liang-hua-wen-ben-pi-pei-jian-suo-de-fu-wu-hua-shi-jian/) ![](/assets/new.png)  
-- [2022-09-16-Spark-App-血缘解析方案](https://tech.youzan.com/spark-app-xie-yuan-jie-xi-fang-an/) ![](/assets/new.png)  
-- [2022-09-05-浅谈有赞搜索QP架构设计](https://tech.youzan.com/11/) ![](/assets/new.png)  
-- [2022-07-05-对比学习在有赞的应用](https://tech.youzan.com/dui-bi-xue-xi-zai-you-zan-d/) ![](/assets/new.png)  
-- [2022-06-21-有赞算法平台之模型部署演进](https://tech.youzan.com/you-zan-suan-fa-ping-tai-zhi-mo-xing-bu-shu-yan-jin/) ![](/assets/new.png)  
-- [2022-03-23-特性团队中的-DoD-右移实践](https://tech.youzan.com/dod-practise/) ![](/assets/new.png)  
-- [2022-03-04-如何用「标准差」度量研发波动](https://tech.youzan.com/metric-standard-deviation/) ![](/assets/new.png)  
-- [2022-02-24-一则物理看板的演进实践](https://tech.youzan.com/evolution-of-real-kanban/) ![](/assets/new.png)  
-- [2022-02-17-「研发共建」提升中台效能初探](https://tech.youzan.com/open-source-mode-from-middle-platform/) ![](/assets/new.png)  
-- [2022-02-09-逻辑表在OLAP场景下的应用与实现](https://tech.youzan.com/luo-ji-biao-zai-olapchang-jing-xia-de-ying-yong-yu-shi-xian/) ![](/assets/new.png)  
-- [2022-01-13-效能指标「研发浓度」在项目度量中的应用](https://tech.youzan.com/development-density-index/) ![](/assets/new.png)  
-- [2021-12-30-数据测试方法](https://tech.youzan.com/shu-ju-ce-shi-fang-fa/) ![](/assets/new.png)  
-- [2021-12-19-Redis源码解析](https://tech.youzan.com/redisyuan-ma-jie-xi/) ![](/assets/new.png)  
-- [2021-12-14-Java锁与线程的那些事](https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/) ![](/assets/new.png)  
-- [2021-12-03-有赞实时计算-Flink-1.13-升级实践](https://tech.youzan.com/flink_13/) ![](/assets/new.png)  
+- [2022-10-28-知识库检索匹配的服务化实践](https://tech.youzan.com/xiang-liang-hua-wen-ben-pi-pei-jian-suo-de-fu-wu-hua-shi-jian/)  
+- [2022-09-16-Spark-App-血缘解析方案](https://tech.youzan.com/spark-app-xie-yuan-jie-xi-fang-an/)  
+- [2022-09-05-浅谈有赞搜索QP架构设计](https://tech.youzan.com/11/)  
+- [2022-07-05-对比学习在有赞的应用](https://tech.youzan.com/dui-bi-xue-xi-zai-you-zan-d/)  
+- [2022-06-21-有赞算法平台之模型部署演进](https://tech.youzan.com/you-zan-suan-fa-ping-tai-zhi-mo-xing-bu-shu-yan-jin/)  
+- [2022-03-23-特性团队中的-DoD-右移实践](https://tech.youzan.com/dod-practise/)  
+- [2022-03-04-如何用「标准差」度量研发波动](https://tech.youzan.com/metric-standard-deviation/)  
+- [2022-02-24-一则物理看板的演进实践](https://tech.youzan.com/evolution-of-real-kanban/)  
+- [2022-02-17-「研发共建」提升中台效能初探](https://tech.youzan.com/open-source-mode-from-middle-platform/)  
+- [2022-02-09-逻辑表在OLAP场景下的应用与实现](https://tech.youzan.com/luo-ji-biao-zai-olapchang-jing-xia-de-ying-yong-yu-shi-xian/)  
+- [2022-01-13-效能指标「研发浓度」在项目度量中的应用](https://tech.youzan.com/development-density-index/)  
+- [2021-12-30-数据测试方法](https://tech.youzan.com/shu-ju-ce-shi-fang-fa/)  
+- [2021-12-19-Redis源码解析](https://tech.youzan.com/redisyuan-ma-jie-xi/)  
+- [2021-12-14-Java锁与线程的那些事](https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/)  
+- [2021-12-03-有赞实时计算-Flink-1.13-升级实践](https://tech.youzan.com/flink_13/)  
 - [......【查看更多】......](/details/有赞技术团队.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

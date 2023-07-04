@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-04 07:16:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-04 15:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Go
 
@@ -29,11 +29,12 @@
 - [2022-11-05-微服务引擎-MSE-升级至-3.0：降低微服务在云原生时代的演进成本](https://posts.careerengine.us/p/63ba4d7994a6f5671b8360fe) 
 - [2022-01-06-ASI-2021-年双十一万级别超大规模集群的高性能提升](https://posts.careerengine.us/p/61ea46d18dd6944618d7a32c) 
 - [2021-12-23-给-K8s-装上大数据调度引擎：伏羲架构升级-K8s-统一调度](https://posts.careerengine.us/p/61ea46d28dd6944618d7a33b) 
+- [2023-07-04-Policy-as-Code之OPA实现](https://insights.thoughtworks.cn/policy-as-code-opa/) 
 - [2023-06-29-对比Cognito和Auth0](https://insights.thoughtworks.cn/how-to-choose-identity-authentication-service-cognito-auth0/) 
-- [2023-06-27-Serverless-架构简述](https://insights.thoughtworks.cn/a-brief-introduction-to-serverless-architectures/) 
 - [2023-06-27-拆掉数字围墙——实现信息的可访问性和易用性](https://insights.thoughtworks.cn/responsiible-tech-accessibility/) 
-- [2023-06-20-大规模敏捷测试怎么做——基础篇](https://insights.thoughtworks.cn/how-to-large-scale-agile-testing-basics/) 
+- [2023-06-27-Serverless-架构简述](https://insights.thoughtworks.cn/a-brief-introduction-to-serverless-architectures/) 
 - [2023-06-20-上云迁移实践之行](https://insights.thoughtworks.cn/practice-trip-to-cloud-migration/) 
+- [2023-06-20-大规模敏捷测试怎么做——基础篇](https://insights.thoughtworks.cn/how-to-large-scale-agile-testing-basics/) 
 - [2023-06-15-如何打造-DevOps-基础设施](https://insights.thoughtworks.cn/how-to-build-devops-infrastructure/) 
 - [2023-06-13-DevOps最佳实践之操作系统和服务](https://insights.thoughtworks.cn/devops-best-practices-operation-system-service/) 
 - [2017-07-07-基于Elasticsearch构建千亿流量日志搜索平台实战](https://posts.careerengine.us/p/5cb796f947792e2cd2460d99) 
