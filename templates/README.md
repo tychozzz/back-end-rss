@@ -22,7 +22,7 @@
 
 ## 
 
-Back End RSS 在线浏览：[https://back-end-rss.vercel.app/](https://back-end-rss.vercel.app/)
+Back End RSS 在线浏览：[https://back-end-rss.netlify.app/](https://back-end-rss.netlify.app/)
 
 :alarm_clock: 更新时间: <%= obj.currentDate %>
 
