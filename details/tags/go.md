@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-07-06 12:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-07 10:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Go
 
 
 
 
+- [2023-07-06-MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html) 
 - [2023-06-16-CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html) 
 - [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html) 
 - [2023-05-26-超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html) 
@@ -49,6 +50,7 @@
 - [2016-07-20-【预告】饿了么、唯品会、蘑菇街、同程旅游同台解密互联网架构的基石](https://posts.careerengine.us/p/5c50b0142359085cf0d6fce8) 
 - [2016-07-18-10个互联网团队应对高压的容量评估与高可用体系：私董会1期](https://posts.careerengine.us/p/5c50aded2b049b59316d9db3) 
 - [2016-07-14-余额宝技术架构及演进](https://posts.careerengine.us/p/5c50be46628621750089ede5) 
+- [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
 - [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html) 

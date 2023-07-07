@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-06 12:00:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-07 10:00:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -44,6 +44,7 @@
 
 
 
+- [【美团技术】MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)
 - [【美团技术】CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)
 - [【美团技术】超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)
 - [【美团技术】超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html)
@@ -63,7 +64,6 @@
 - [【阿里技术】前端实现多文件编译器](https://posts.careerengine.us/p/62411774723e403aa317b06f)
 - [【阿里技术】NBF事件中心架构设计与实现](https://posts.careerengine.us/p/623d270d2c3acb500bdfa003)
 - [【阿里技术】一文搞懂redis](https://posts.careerengine.us/p/623bb5b02562ae550820eaae)
-- [【阿里技术】系统性能分析从入门到进阶](https://posts.careerengine.us/p/623a64b7a198cf324b7a7ac6)
 - [......【查看更多】......](/details/tags/go.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
