@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-13 15:00:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-14 10:00:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
+- [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -79,7 +79,7 @@
 </summary>
 
 
-- [2023-07-13-如何度量软件架构](https://insights.thoughtworks.cn/how-to-measure-software-architecture/) ![](/assets/new.png)  
+- [2023-07-13-如何度量软件架构](https://insights.thoughtworks.cn/how-to-measure-software-architecture/)  
 - [2023-07-11-持续测试基础设施](https://insights.thoughtworks.cn/how-to-continuous-testing-infrastructure/)  
 - [2023-07-06-Lambda陷阱：无服务器架构的理想与现实](https://insights.thoughtworks.cn/lambda-quicksand/)  
 - [2023-07-05-当-BizDevOps-遇见-AI-2.0](https://insights.thoughtworks.cn/bizdevops-ai2/)  
@@ -123,6 +123,7 @@
 </summary>
 
 
+- [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html) ![](/assets/new.png)  
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)  
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)  
