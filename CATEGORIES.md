@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-20 15:00:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-21 10:00:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
+- [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -82,7 +82,7 @@
 
 - [2023-07-20-Serverless的系统监控](https://insights.thoughtworks.cn/serverless-system-monitoring/)  
 - [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/%e6%95%b0%e6%8d%ae%e5%b7%a5%e7%a8%8b%e4%b8%ad%e7%9a%84%e4%bb%bb%e5%8a%a1%e8%b0%83%e5%ba%a6%e5%ae%9e%e8%b7%b5/)  
-- [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/task-scheduling-practice-in-data-engineering/) ![](/assets/new.png)  
+- [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/task-scheduling-practice-in-data-engineering/)  
 - [2023-07-13-如何度量软件架构](https://insights.thoughtworks.cn/how-to-measure-software-architecture/)  
 - [2023-07-11-持续测试基础设施](https://insights.thoughtworks.cn/how-to-continuous-testing-infrastructure/)  
 - [2023-07-06-Lambda陷阱：无服务器架构的理想与现实](https://insights.thoughtworks.cn/lambda-quicksand/)  
@@ -127,6 +127,7 @@
 </summary>
 
 
+- [2023-07-21-科技爱好者周刊（第-263-期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html) ![](/assets/new.png)  
 - [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)  
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)  
