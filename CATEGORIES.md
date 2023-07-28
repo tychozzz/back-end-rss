@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-27 12:00:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-28 10:00:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
+- [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -81,7 +81,7 @@
 </summary>
 
 
-- [2023-07-27-用EasyModeling简化Java单元测试](https://insights.thoughtworks.cn/simplify-java-unit-test-data-preparation-with-easymodeling/) ![](/assets/new.png)  
+- [2023-07-27-用EasyModeling简化Java单元测试](https://insights.thoughtworks.cn/simplify-java-unit-test-data-preparation-with-easymodeling/)  
 - [2023-07-25-什么是多运行时架构？](https://insights.thoughtworks.cn/what-is-a-multi-runtime-architecture/)  
 - [2023-07-25-服务非目标客户-成本和价值的平衡之道](https://insights.thoughtworks.cn/cost-value/)  
 - [2023-07-20-Serverless的系统监控](https://insights.thoughtworks.cn/serverless-system-monitoring/)  
@@ -131,6 +131,7 @@
 </summary>
 
 
+- [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html) ![](/assets/new.png)  
 - [2023-07-21-科技爱好者周刊（第-263-期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)  
 - [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)  
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
