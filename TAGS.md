@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-08-01 12:00:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-08-01 15:00:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -45,10 +45,11 @@
 
 
 
+- [【美团技术】斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)
 - [【美团技术】美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html)
 - [【美团技术】美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html)
-- [【美团技术】MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)
 - [【美团技术】MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)
+- [【美团技术】MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)
 - [【美团技术】CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)
 - [【美团技术】超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)
 - [【美团技术】超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html)
@@ -64,7 +65,6 @@
 - [【阿里技术】阿里大淘系模型治理阶段性分享](https://posts.careerengine.us/p/624e2ac3e6056e59e4a580fd)
 - [【阿里技术】阿里巴巴云原生混部系统-Koordinator-正式开源](https://posts.careerengine.us/p/624cd960b4976c3327bfc0bf)
 - [【阿里技术】异动分析技术解决方案—异动归因之指标拆解](https://posts.careerengine.us/p/6243d325b5b9357dbe18fc49)
-- [【阿里技术】单元测试框架和覆盖率统计原理简析](https://posts.careerengine.us/p/62426d41527d476c8564ca52)
 - [......【查看更多】......](/details/tags/go.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
