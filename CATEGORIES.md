@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-03 12:00:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-04 10:00:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
+- [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -82,7 +82,7 @@
 </summary>
 
 
-- [2023-08-03-如何定义高质量的Gherkin自然语言步骤库](https://insights.thoughtworks.cn/how-to-define-gherkin-natural-language-step-library-2/) ![](/assets/new.png)  
+- [2023-08-03-如何定义高质量的Gherkin自然语言步骤库](https://insights.thoughtworks.cn/how-to-define-gherkin-natural-language-step-library-2/)  
 - [2023-08-01-低碳-Web-实践指南](https://insights.thoughtworks.cn/green-web-low-carbon-web-practice-guide/)  
 - [2023-07-27-用EasyModeling简化Java单元测试](https://insights.thoughtworks.cn/simplify-java-unit-test-data-preparation-with-easymodeling/)  
 - [2023-07-25-什么是多运行时架构？](https://insights.thoughtworks.cn/what-is-a-multi-runtime-architecture/)  
@@ -134,6 +134,7 @@
 </summary>
 
 
+- [2023-08-04-科技爱好者周刊（第-265-期）：WiFi-的后面是-LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html) ![](/assets/new.png)  
 - [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)  
 - [2023-07-21-科技爱好者周刊（第-263-期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)  
 - [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)  
