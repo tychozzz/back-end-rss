@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-17 12:00:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-18 10:00:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
+- [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -84,7 +84,7 @@
 </summary>
 
 
-- [2023-08-17-DDD之聚合过大](https://insights.thoughtworks.cn/domain-driven-design-oversized-aggregation/) ![](/assets/new.png)  
+- [2023-08-17-DDD之聚合过大](https://insights.thoughtworks.cn/domain-driven-design-oversized-aggregation/)  
 - [2023-08-15-价值管理的三个抓手](https://insights.thoughtworks.cn/value-management-3-pillars/)  
 - [2023-08-15-如何编写技术文档？](https://insights.thoughtworks.cn/how-to-write-technical-documentation/)  
 - [2023-08-10-信息检索指南](https://insights.thoughtworks.cn/how-to-research-web/)  
@@ -136,6 +136,7 @@
 </summary>
 
 
+- [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html) ![](/assets/new.png)  
 - [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)  
 - [2023-08-04-科技爱好者周刊（第-265-期）：WiFi-的后面是-LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)  
