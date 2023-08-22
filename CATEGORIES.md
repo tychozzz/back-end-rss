@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-18 10:00:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-22 12:01:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)  
+- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -84,26 +84,26 @@
 </summary>
 
 
+- [2023-08-22-从乔哈里窗看咨询师的同理心](https://insights.thoughtworks.cn/empathy-for-consultant/) ![](/assets/new.png)  
 - [2023-08-17-DDD之聚合过大](https://insights.thoughtworks.cn/domain-driven-design-oversized-aggregation/)  
-- [2023-08-15-价值管理的三个抓手](https://insights.thoughtworks.cn/value-management-3-pillars/)  
 - [2023-08-15-如何编写技术文档？](https://insights.thoughtworks.cn/how-to-write-technical-documentation/)  
+- [2023-08-15-价值管理的三个抓手](https://insights.thoughtworks.cn/value-management-3-pillars/)  
 - [2023-08-10-信息检索指南](https://insights.thoughtworks.cn/how-to-research-web/)  
 - [2023-08-09-中国制造企业出海观察](https://insights.thoughtworks.cn/transnational-enterprises-in-manufacturing-industry/)  
 - [2023-08-08-如何建立你的离岸交付团队？](https://insights.thoughtworks.cn/how-to-build-offshore-delivery-team/)  
 - [2023-08-03-如何定义高质量的Gherkin自然语言步骤库](https://insights.thoughtworks.cn/how-to-define-gherkin-natural-language-step-library-2/)  
 - [2023-08-01-低碳-Web-实践指南](https://insights.thoughtworks.cn/green-web-low-carbon-web-practice-guide/)  
 - [2023-07-27-用EasyModeling简化Java单元测试](https://insights.thoughtworks.cn/simplify-java-unit-test-data-preparation-with-easymodeling/)  
-- [2023-07-25-什么是多运行时架构？](https://insights.thoughtworks.cn/what-is-a-multi-runtime-architecture/)  
 - [2023-07-25-服务非目标客户-成本和价值的平衡之道](https://insights.thoughtworks.cn/cost-value/)  
+- [2023-07-25-什么是多运行时架构？](https://insights.thoughtworks.cn/what-is-a-multi-runtime-architecture/)  
 - [2023-07-20-Serverless的系统监控](https://insights.thoughtworks.cn/serverless-system-monitoring/)  
-- [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/task-scheduling-practice-in-data-engineering/)  
 - [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/%e6%95%b0%e6%8d%ae%e5%b7%a5%e7%a8%8b%e4%b8%ad%e7%9a%84%e4%bb%bb%e5%8a%a1%e8%b0%83%e5%ba%a6%e5%ae%9e%e8%b7%b5/)  
+- [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/task-scheduling-practice-in-data-engineering/)  
 - [2023-07-13-如何度量软件架构](https://insights.thoughtworks.cn/how-to-measure-software-architecture/)  
 - [2023-07-11-持续测试基础设施](https://insights.thoughtworks.cn/how-to-continuous-testing-infrastructure/)  
 - [2023-07-06-Lambda陷阱：无服务器架构的理想与现实](https://insights.thoughtworks.cn/lambda-quicksand/)  
 - [2023-07-05-当-BizDevOps-遇见-AI-2.0](https://insights.thoughtworks.cn/bizdevops-ai2/)  
 - [2023-07-04-Policy-as-Code之OPA实现](https://insights.thoughtworks.cn/policy-as-code-opa/)  
-- [2023-06-29-对比Cognito和Auth0](https://insights.thoughtworks.cn/how-to-choose-identity-authentication-service-cognito-auth0/)  
 - [......【查看更多】......](/details/Thoughtworks洞见.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -136,7 +136,7 @@
 </summary>
 
 
-- [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html) ![](/assets/new.png)  
+- [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
 - [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)  
 - [2023-08-04-科技爱好者周刊（第-265-期）：WiFi-的后面是-LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)  
