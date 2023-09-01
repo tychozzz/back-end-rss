@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-29 12:01:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-01 10:00:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
+- [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -85,7 +85,7 @@
 </summary>
 
 
-- [2023-08-29-何成为全栈开发工程师](https://insights.thoughtworks.cn/how-to-full-stack-developer/) ![](/assets/new.png)  
+- [2023-08-29-何成为全栈开发工程师](https://insights.thoughtworks.cn/how-to-full-stack-developer/)  
 - [2023-08-24-如何使用链路追踪快速定位问题](https://insights.thoughtworks.cn/how-to-use-tracking-analysis/)  
 - [2023-08-22-从乔哈里窗看咨询师的同理心](https://insights.thoughtworks.cn/empathy-for-consultant/)  
 - [2023-08-17-DDD之聚合过大](https://insights.thoughtworks.cn/domain-driven-design-oversized-aggregation/)  
@@ -137,6 +137,7 @@
 </summary>
 
 
+- [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html) ![](/assets/new.png)  
 - [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)  
 - [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
 - [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
