@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-01 15:00:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-08 08:00:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)![](/assets/dot.png)   
+- [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -20,7 +20,7 @@
 </summary>
 
 
-- [2023-08-31-MJDK-如何实现压缩速率的-5-倍提升？](https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html) ![](/assets/new.png)  
+- [2023-08-31-MJDK-如何实现压缩速率的-5-倍提升？](https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html)  
 - [2023-08-24-如何提供一个可信的AB测试解决方案](https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html)  
 - [2023-08-11-KDD-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html)  
 - [2023-08-03-美团前端研发框架Rome实践和演进趋势](https://tech.meituan.com/2023/08/03/meituan-rome-practice.html)  
@@ -138,6 +138,7 @@
 </summary>
 
 
+- [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html) ![](/assets/new.png)  
 - [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
 - [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)  
 - [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
