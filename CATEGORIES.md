@@ -1,13 +1,13 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-15 12:00:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-19 10:00:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)![](/assets/dot.png)   
+- [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)  
+- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
 - [高可用架构](#高可用架构)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [有赞技术团队](#有赞技术团队)  
@@ -20,7 +20,7 @@
 </summary>
 
 
-- [2023-09-14-美团多场景建模的探索与实践](https://tech.meituan.com/2023/09/14/demand-side-platform.html) ![](/assets/new.png)  
+- [2023-09-14-美团多场景建模的探索与实践](https://tech.meituan.com/2023/09/14/demand-side-platform.html)  
 - [2023-08-31-MJDK-如何实现压缩速率的-5-倍提升？](https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html)  
 - [2023-08-24-如何提供一个可信的AB测试解决方案](https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html)  
 - [2023-08-11-KDD-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html)  
@@ -87,26 +87,26 @@
 </summary>
 
 
+- [2023-09-19-Thoughtworks-洞见电子书《换个角度认识软件》，免费下载！](https://insights.thoughtworks.cn/understand-software-from-another-angle/) ![](/assets/new.png)  
 - [2023-08-29-何成为全栈开发工程师](https://insights.thoughtworks.cn/how-to-full-stack-developer/)  
 - [2023-08-24-如何使用链路追踪快速定位问题](https://insights.thoughtworks.cn/how-to-use-tracking-analysis/)  
 - [2023-08-22-从乔哈里窗看咨询师的同理心](https://insights.thoughtworks.cn/empathy-for-consultant/)  
 - [2023-08-17-DDD之聚合过大](https://insights.thoughtworks.cn/domain-driven-design-oversized-aggregation/)  
-- [2023-08-15-如何编写技术文档？](https://insights.thoughtworks.cn/how-to-write-technical-documentation/)  
 - [2023-08-15-价值管理的三个抓手](https://insights.thoughtworks.cn/value-management-3-pillars/)  
+- [2023-08-15-如何编写技术文档？](https://insights.thoughtworks.cn/how-to-write-technical-documentation/)  
 - [2023-08-10-信息检索指南](https://insights.thoughtworks.cn/how-to-research-web/)  
 - [2023-08-09-中国制造企业出海观察](https://insights.thoughtworks.cn/transnational-enterprises-in-manufacturing-industry/)  
 - [2023-08-08-如何建立你的离岸交付团队？](https://insights.thoughtworks.cn/how-to-build-offshore-delivery-team/)  
 - [2023-08-03-如何定义高质量的Gherkin自然语言步骤库](https://insights.thoughtworks.cn/how-to-define-gherkin-natural-language-step-library-2/)  
 - [2023-08-01-低碳-Web-实践指南](https://insights.thoughtworks.cn/green-web-low-carbon-web-practice-guide/)  
 - [2023-07-27-用EasyModeling简化Java单元测试](https://insights.thoughtworks.cn/simplify-java-unit-test-data-preparation-with-easymodeling/)  
-- [2023-07-25-服务非目标客户-成本和价值的平衡之道](https://insights.thoughtworks.cn/cost-value/)  
 - [2023-07-25-什么是多运行时架构？](https://insights.thoughtworks.cn/what-is-a-multi-runtime-architecture/)  
+- [2023-07-25-服务非目标客户-成本和价值的平衡之道](https://insights.thoughtworks.cn/cost-value/)  
 - [2023-07-20-Serverless的系统监控](https://insights.thoughtworks.cn/serverless-system-monitoring/)  
-- [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/%e6%95%b0%e6%8d%ae%e5%b7%a5%e7%a8%8b%e4%b8%ad%e7%9a%84%e4%bb%bb%e5%8a%a1%e8%b0%83%e5%ba%a6%e5%ae%9e%e8%b7%b5/)  
 - [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/task-scheduling-practice-in-data-engineering/)  
+- [2023-07-18-数据工程中的任务调度实践](https://insights.thoughtworks.cn/%e6%95%b0%e6%8d%ae%e5%b7%a5%e7%a8%8b%e4%b8%ad%e7%9a%84%e4%bb%bb%e5%8a%a1%e8%b0%83%e5%ba%a6%e5%ae%9e%e8%b7%b5/)  
 - [2023-07-13-如何度量软件架构](https://insights.thoughtworks.cn/how-to-measure-software-architecture/)  
 - [2023-07-11-持续测试基础设施](https://insights.thoughtworks.cn/how-to-continuous-testing-infrastructure/)  
-- [2023-07-06-Lambda陷阱：无服务器架构的理想与现实](https://insights.thoughtworks.cn/lambda-quicksand/)  
 - [......【查看更多】......](/details/Thoughtworks洞见.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
