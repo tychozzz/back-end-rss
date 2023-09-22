@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-22 10:01:07。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-22 18:00:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,6 +46,7 @@
 
 
 
+- [【美团技术】代码变更风险可视化系统建设与实践](https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html)
 - [【美团技术】美团多场景建模的探索与实践](https://tech.meituan.com/2023/09/14/demand-side-platform.html)
 - [【美团技术】如何提供一个可信的AB测试解决方案](https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html)
 - [【美团技术】KDD-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html)
@@ -53,8 +54,8 @@
 - [【美团技术】斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)
 - [【美团技术】美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html)
 - [【美团技术】美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html)
-- [【美团技术】MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)
 - [【美团技术】MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)
+- [【美团技术】MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)
 - [【美团技术】CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)
 - [【美团技术】超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)
 - [【美团技术】超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html)
@@ -65,7 +66,6 @@
 - [【美团技术】基于AI+数据驱动的慢查询索引推荐](https://tech.meituan.com/2023/04/06/slow-query-optimized-driven-by-ai-data.html)
 - [【美团技术】ICDE-2023-|-多场景多任务学习在美团到店餐饮推荐的实践](https://tech.meituan.com/2023/03/23/recommendation-multi-scenario-task.html)
 - [【美团技术】MRCP在美团语音交互中的实践和应用](https://tech.meituan.com/2023/03/09/practice-and-application-of-mrcp-in-voice-interaction-of-meituan.html)
-- [【阿里技术】Redis消息队列发展历程](https://posts.careerengine.us/p/625396243cfd29052d15b9f9)
 - [......【查看更多】......](/details/tags/go.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
