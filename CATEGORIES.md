@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-19 10:00:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-22 10:01:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
-- [Thoughtworks洞见](#thoughtworks洞见)![](/assets/dot.png)   
+- [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -87,7 +87,7 @@
 </summary>
 
 
-- [2023-09-19-Thoughtworks-洞见电子书《换个角度认识软件》，免费下载！](https://insights.thoughtworks.cn/understand-software-from-another-angle/) ![](/assets/new.png)  
+- [2023-09-19-Thoughtworks-洞见电子书《换个角度认识软件》，免费下载！](https://insights.thoughtworks.cn/understand-software-from-another-angle/)  
 - [2023-08-29-何成为全栈开发工程师](https://insights.thoughtworks.cn/how-to-full-stack-developer/)  
 - [2023-08-24-如何使用链路追踪快速定位问题](https://insights.thoughtworks.cn/how-to-use-tracking-analysis/)  
 - [2023-08-22-从乔哈里窗看咨询师的同理心](https://insights.thoughtworks.cn/empathy-for-consultant/)  
@@ -139,6 +139,7 @@
 </summary>
 
 
+- [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html) ![](/assets/new.png)  
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)  
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
 - [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
