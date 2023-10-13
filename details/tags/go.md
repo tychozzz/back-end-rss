@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-09-22 18:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-13 10:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Go
 
 
 
 
+- [2023-10-12-基于模式挖掘的可靠性治理探索](https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html) 
 - [2023-09-22-代码变更风险可视化系统建设与实践](https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html) 
 - [2023-09-14-美团多场景建模的探索与实践](https://tech.meituan.com/2023/09/14/demand-side-platform.html) 
 - [2023-08-24-如何提供一个可信的AB测试解决方案](https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html) 
@@ -13,8 +14,8 @@
 - [2023-07-27-斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html) 
 - [2023-07-20-美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html) 
 - [2023-07-13-美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html) 
-- [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html) 
 - [2023-07-06-MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html) 
+- [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html) 
 - [2023-06-16-CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html) 
 - [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html) 
 - [2023-05-26-超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html) 
@@ -78,6 +79,7 @@
 - [2016-07-20-【预告】饿了么、唯品会、蘑菇街、同程旅游同台解密互联网架构的基石](https://posts.careerengine.us/p/5c50b0142359085cf0d6fce8) 
 - [2016-07-18-10个互联网团队应对高压的容量评估与高可用体系：私董会1期](https://posts.careerengine.us/p/5c50aded2b049b59316d9db3) 
 - [2016-07-14-余额宝技术架构及演进](https://posts.careerengine.us/p/5c50be46628621750089ede5) 
+- [2023-10-13-科技爱好者周刊（第-273-期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html) 
 - [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html) 
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html) 
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html) 

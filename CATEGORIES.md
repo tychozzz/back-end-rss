@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-22 18:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-13 10:00:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -9,7 +9,7 @@
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -20,7 +20,8 @@
 </summary>
 
 
-- [2023-09-22-代码变更风险可视化系统建设与实践](https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html) ![](/assets/new.png)  
+- [2023-10-12-基于模式挖掘的可靠性治理探索](https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html) ![](/assets/new.png)  
+- [2023-09-22-代码变更风险可视化系统建设与实践](https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html)  
 - [2023-09-14-美团多场景建模的探索与实践](https://tech.meituan.com/2023/09/14/demand-side-platform.html)  
 - [2023-08-31-MJDK-如何实现压缩速率的-5-倍提升？](https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html)  
 - [2023-08-24-如何提供一个可信的AB测试解决方案](https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html)  
@@ -29,8 +30,8 @@
 - [2023-07-27-斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)  
 - [2023-07-20-美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html)  
 - [2023-07-13-美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html)  
-- [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)  
 - [2023-07-06-MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)  
+- [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)  
 - [2023-06-16-CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)  
 - [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)  
 - [2023-05-26-超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html)  
@@ -39,7 +40,6 @@
 - [2023-04-20-一次「找回」TraceId的问题分析与过程思考](https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html)  
 - [2023-04-13-人机语音交互场景中的低延迟流式语音识别技术](https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html)  
 - [2023-04-06-基于AI+数据驱动的慢查询索引推荐](https://tech.meituan.com/2023/04/06/slow-query-optimized-driven-by-ai-data.html)  
-- [2023-03-23-ICDE-2023-|-多场景多任务学习在美团到店餐饮推荐的实践](https://tech.meituan.com/2023/03/23/recommendation-multi-scenario-task.html)  
 - [......【查看更多】......](/details/美团技术.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -139,6 +139,7 @@
 </summary>
 
 
+- [2023-10-13-科技爱好者周刊（第-273-期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html) ![](/assets/new.png)  
 - [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)  
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)  
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
