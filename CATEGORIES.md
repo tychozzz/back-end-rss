@@ -1,10 +1,10 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-13 10:00:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-20 10:00:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)![](/assets/dot.png)   
+- [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
@@ -20,7 +20,7 @@
 </summary>
 
 
-- [2023-10-12-基于模式挖掘的可靠性治理探索](https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html) ![](/assets/new.png)  
+- [2023-10-12-基于模式挖掘的可靠性治理探索](https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html)  
 - [2023-09-22-代码变更风险可视化系统建设与实践](https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html)  
 - [2023-09-14-美团多场景建模的探索与实践](https://tech.meituan.com/2023/09/14/demand-side-platform.html)  
 - [2023-08-31-MJDK-如何实现压缩速率的-5-倍提升？](https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html)  
@@ -139,7 +139,8 @@
 </summary>
 
 
-- [2023-10-13-科技爱好者周刊（第-273-期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html) ![](/assets/new.png)  
+- [2023-10-20-科技爱好者周刊（第-274-期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html) ![](/assets/new.png)  
+- [2023-10-13-科技爱好者周刊（第-273-期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)  
 - [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)  
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)  
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
