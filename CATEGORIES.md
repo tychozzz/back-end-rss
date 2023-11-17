@@ -1,10 +1,10 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-10 10:00:15，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-17 10:00:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)![](/assets/dot.png)   
+- [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
@@ -20,7 +20,7 @@
 </summary>
 
 
-- [2023-11-09-如何利用「深度上下文兴趣网络」提升点击率？](https://tech.meituan.com/2023/11/09/how-to-model-context-information-in-deep-interest-network.html) ![](/assets/new.png)  
+- [2023-11-09-如何利用「深度上下文兴趣网络」提升点击率？](https://tech.meituan.com/2023/11/09/how-to-model-context-information-in-deep-interest-network.html)  
 - [2023-10-12-基于模式挖掘的可靠性治理探索](https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html)  
 - [2023-09-22-代码变更风险可视化系统建设与实践](https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html)  
 - [2023-09-14-美团多场景建模的探索与实践](https://tech.meituan.com/2023/09/14/demand-side-platform.html)  
@@ -139,7 +139,8 @@
 </summary>
 
 
-- [2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html) ![](/assets/new.png)  
+- [2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) ![](/assets/new.png)  
+- [2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)  
 - [2023-11-03-科技爱好者周刊（第-276-期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)  
 - [2023-10-27-科技爱好者周刊（第-275-期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)  
 - [2023-10-20-科技爱好者周刊（第-274-期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)  
@@ -158,7 +159,6 @@
 - [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)  
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)  
-- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
