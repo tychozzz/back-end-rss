@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-24 10:00:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-24 15:00:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)  
+- [美团技术](#美团技术)![](/assets/dot.png)   
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -20,6 +20,7 @@
 </summary>
 
 
+- [2023-11-23-基于UI交互意图理解的异常检测方法](https://tech.meituan.com/2023/11/23/the-intent-of-ui-interaction-understanding.html) ![](/assets/new.png)  
 - [2023-11-09-如何利用「深度上下文兴趣网络」提升点击率？](https://tech.meituan.com/2023/11/09/how-to-model-context-information-in-deep-interest-network.html)  
 - [2023-10-12-基于模式挖掘的可靠性治理探索](https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html)  
 - [2023-09-22-代码变更风险可视化系统建设与实践](https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html)  
@@ -31,15 +32,14 @@
 - [2023-07-27-斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)  
 - [2023-07-20-美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html)  
 - [2023-07-13-美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html)  
-- [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)  
 - [2023-07-06-MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)  
+- [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)  
 - [2023-06-16-CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)  
 - [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)  
 - [2023-05-26-超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html)  
 - [2023-05-18-Robust-2.0：支持Android-R8的升级版热修复框架](https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html)  
 - [2023-05-11-超大规模数据库集群保稳系列之一：高可用系统](https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html)  
 - [2023-04-20-一次「找回」TraceId的问题分析与过程思考](https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html)  
-- [2023-04-13-人机语音交互场景中的低延迟流式语音识别技术](https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html)  
 - [......【查看更多】......](/details/美团技术.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -139,7 +139,7 @@
 </summary>
 
 
-- [2023-11-24-科技爱好者周刊（第-279-期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html) ![](/assets/new.png)  
+- [2023-11-24-科技爱好者周刊（第-279-期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)  
 - [2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)  
 - [2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)  
 - [2023-11-03-科技爱好者周刊（第-276-期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)  
