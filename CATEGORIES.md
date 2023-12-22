@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-15 10:00:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-22 10:00:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -139,7 +139,8 @@
 </summary>
 
 
-- [2023-12-15-科技爱好者周刊（第-282-期）：电动皮卡-Cybertruck-的-48V-供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) ![](/assets/new.png)  
+- [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) ![](/assets/new.png)  
+- [2023-12-15-科技爱好者周刊（第-282-期）：电动皮卡-Cybertruck-的-48V-供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)  
 - [2023-12-08-科技爱好者周刊（第-281-期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)  
 - [2023-12-01-科技爱好者周刊（第-280-期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)  
 - [2023-11-24-科技爱好者周刊（第-279-期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)  
@@ -158,7 +159,6 @@
 - [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)  
 - [2023-08-04-科技爱好者周刊（第-265-期）：WiFi-的后面是-LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)  
-- [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
