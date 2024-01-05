@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-01-02 10:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-05 10:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Go
 
@@ -84,6 +84,7 @@
 - [2016-07-20-【预告】饿了么、唯品会、蘑菇街、同程旅游同台解密互联网架构的基石](https://posts.careerengine.us/p/5c50b0142359085cf0d6fce8) 
 - [2016-07-18-10个互联网团队应对高压的容量评估与高可用体系：私董会1期](https://posts.careerengine.us/p/5c50aded2b049b59316d9db3) 
 - [2016-07-14-余额宝技术架构及演进](https://posts.careerengine.us/p/5c50be46628621750089ede5) 
+- [2024-01-05-科技爱好者周刊（第-285-期）：为什么-PPT-不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html) 
 - [2023-12-29-科技爱好者周刊（第-284-期）：YouTube-有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html) 
 - [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) 
 - [2023-12-15-科技爱好者周刊（第-282-期）：电动皮卡-Cybertruck-的-48V-供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) 

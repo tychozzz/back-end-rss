@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-02 10:00:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-05 10:00:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)![](/assets/dot.png)   
+- [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -20,7 +20,7 @@
 </summary>
 
 
-- [2023-12-29-美团到店终端从标准化到数字化的演进之路](https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html) ![](/assets/new.png)  
+- [2023-12-29-美团到店终端从标准化到数字化的演进之路](https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html)  
 - [2023-12-22-AIOps在美团的探索与实践——事件管理篇](https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html)  
 - [2023-12-04-美团技术博客十周年，感谢一路相伴](https://tech.meituan.com/2023/12/04/ten-years-of-meituan-technology-blog.html)  
 - [2023-11-23-基于UI交互意图理解的异常检测方法](https://tech.meituan.com/2023/11/23/the-intent-of-ui-interaction-understanding.html)  
@@ -139,6 +139,7 @@
 </summary>
 
 
+- [2024-01-05-科技爱好者周刊（第-285-期）：为什么-PPT-不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html) ![](/assets/new.png)  
 - [2023-12-29-科技爱好者周刊（第-284-期）：YouTube-有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)  
 - [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)  
 - [2023-12-15-科技爱好者周刊（第-282-期）：电动皮卡-Cybertruck-的-48V-供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)  
@@ -158,7 +159,6 @@
 - [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)  
 - [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
 - [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
-- [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
