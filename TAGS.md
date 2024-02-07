@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-05 15:00:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-02-07 12:00:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,6 +46,9 @@
 
 
 
+- [【美团技术】美团技术年货-|-600+页电子书，前端、后端、算法、测试、运维系列大合集](https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html)
+- [【美团技术】分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html)
+- [【美团技术】美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html)
 - [【美团技术】2023-|-美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html)
 - [【美团技术】美团到店终端从标准化到数字化的演进之路](https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html)
 - [【美团技术】AIOps在美团的探索与实践——事件管理篇](https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html)
@@ -61,11 +64,8 @@
 - [【美团技术】斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)
 - [【美团技术】美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html)
 - [【美团技术】美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html)
-- [【美团技术】MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)
 - [【美团技术】MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)
-- [【美团技术】CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)
-- [【美团技术】超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)
-- [【美团技术】超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html)
+- [【美团技术】MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)
 - [......【查看更多】......](/details/tags/go.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

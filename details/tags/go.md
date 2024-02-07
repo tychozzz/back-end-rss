@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2024-01-05 15:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-07 12:00:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Go
 
 
 
 
+- [2024-02-01-美团技术年货-|-600+页电子书，前端、后端、算法、测试、运维系列大合集](https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html) 
+- [2024-01-25-分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html) 
+- [2024-01-19-美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html) 
 - [2024-01-04-2023-|-美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html) 
 - [2023-12-29-美团到店终端从标准化到数字化的演进之路](https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html) 
 - [2023-12-22-AIOps在美团的探索与实践——事件管理篇](https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html) 
@@ -20,8 +23,8 @@
 - [2023-07-27-斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html) 
 - [2023-07-20-美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html) 
 - [2023-07-13-美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html) 
-- [2023-07-06-MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html) 
 - [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html) 
+- [2023-07-06-MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html) 
 - [2023-06-16-CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html) 
 - [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html) 
 - [2023-05-26-超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html) 
@@ -85,6 +88,9 @@
 - [2016-07-20-【预告】饿了么、唯品会、蘑菇街、同程旅游同台解密互联网架构的基石](https://posts.careerengine.us/p/5c50b0142359085cf0d6fce8) 
 - [2016-07-18-10个互联网团队应对高压的容量评估与高可用体系：私董会1期](https://posts.careerengine.us/p/5c50aded2b049b59316d9db3) 
 - [2016-07-14-余额宝技术架构及演进](https://posts.careerengine.us/p/5c50be46628621750089ede5) 
+- [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) 
+- [2024-01-26-科技爱好者周刊（第-288-期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) 
+- [2024-01-19-科技爱好者周刊（第-287-期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html) 
 - [2024-01-05-科技爱好者周刊（第-285-期）：为什么-PPT-不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html) 
 - [2023-12-29-科技爱好者周刊（第-284-期）：YouTube-有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html) 
 - [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) 

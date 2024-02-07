@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-05 15:00:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-07 12:00:17，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -9,7 +9,7 @@
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -20,7 +20,10 @@
 </summary>
 
 
-- [2024-01-04-2023-|-美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html) ![](/assets/new.png)  
+- [2024-02-01-美团技术年货-|-600+页电子书，前端、后端、算法、测试、运维系列大合集](https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html) ![](/assets/new.png)  
+- [2024-01-25-分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html) ![](/assets/new.png)  
+- [2024-01-19-美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html) ![](/assets/new.png)  
+- [2024-01-04-2023-|-美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html)  
 - [2023-12-29-美团到店终端从标准化到数字化的演进之路](https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html)  
 - [2023-12-22-AIOps在美团的探索与实践——事件管理篇](https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html)  
 - [2023-12-04-美团技术博客十周年，感谢一路相伴](https://tech.meituan.com/2023/12/04/ten-years-of-meituan-technology-blog.html)  
@@ -36,10 +39,7 @@
 - [2023-07-27-斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)  
 - [2023-07-20-美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html)  
 - [2023-07-13-美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html)  
-- [2023-07-06-MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)  
 - [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)  
-- [2023-06-16-CVPR-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)  
-- [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)  
 - [......【查看更多】......](/details/美团技术.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -139,6 +139,9 @@
 </summary>
 
 
+- [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) ![](/assets/new.png)  
+- [2024-01-26-科技爱好者周刊（第-288-期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) ![](/assets/new.png)  
+- [2024-01-19-科技爱好者周刊（第-287-期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html) ![](/assets/new.png)  
 - [2024-01-05-科技爱好者周刊（第-285-期）：为什么-PPT-不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)  
 - [2023-12-29-科技爱好者周刊（第-284-期）：YouTube-有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)  
 - [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)  
@@ -156,9 +159,6 @@
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)  
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
 - [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
-- [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)  
-- [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
-- [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
