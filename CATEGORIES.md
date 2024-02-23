@@ -1,10 +1,10 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-07 12:00:17，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-23 10:00:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)![](/assets/dot.png)   
+- [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
@@ -20,9 +20,9 @@
 </summary>
 
 
-- [2024-02-01-美团技术年货-|-600+页电子书，前端、后端、算法、测试、运维系列大合集](https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html) ![](/assets/new.png)  
-- [2024-01-25-分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html) ![](/assets/new.png)  
-- [2024-01-19-美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html) ![](/assets/new.png)  
+- [2024-02-01-美团技术年货-|-600+页电子书，前端、后端、算法、测试、运维系列大合集](https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html)  
+- [2024-01-25-分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html)  
+- [2024-01-19-美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html)  
 - [2024-01-04-2023-|-美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html)  
 - [2023-12-29-美团到店终端从标准化到数字化的演进之路](https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html)  
 - [2023-12-22-AIOps在美团的探索与实践——事件管理篇](https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html)  
@@ -139,9 +139,10 @@
 </summary>
 
 
-- [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) ![](/assets/new.png)  
-- [2024-01-26-科技爱好者周刊（第-288-期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) ![](/assets/new.png)  
-- [2024-01-19-科技爱好者周刊（第-287-期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html) ![](/assets/new.png)  
+- [2024-02-23-科技爱好者周刊（第-290-期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html) ![](/assets/new.png)  
+- [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)  
+- [2024-01-26-科技爱好者周刊（第-288-期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)  
+- [2024-01-19-科技爱好者周刊（第-287-期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)  
 - [2024-01-05-科技爱好者周刊（第-285-期）：为什么-PPT-不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)  
 - [2023-12-29-科技爱好者周刊（第-284-期）：YouTube-有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)  
 - [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)  
@@ -158,7 +159,6 @@
 - [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)  
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)  
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
-- [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
