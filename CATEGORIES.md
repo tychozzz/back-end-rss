@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-08 10:00:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-15 10:00:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -139,7 +139,8 @@
 </summary>
 
 
-- [2024-03-08-科技爱好者周刊（第-292-期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) ![](/assets/new.png)  
+- [2024-03-15-科技爱好者周刊（第-293-期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) ![](/assets/new.png)  
+- [2024-03-08-科技爱好者周刊（第-292-期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)  
 - [2024-03-01-科技爱好者周刊（第-291-期）：AI-没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)  
 - [2024-02-23-科技爱好者周刊（第-290-期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)  
 - [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)  
@@ -158,7 +159,6 @@
 - [2023-10-27-科技爱好者周刊（第-275-期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)  
 - [2023-10-20-科技爱好者周刊（第-274-期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html)  
 - [2023-10-13-科技爱好者周刊（第-273-期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html)  
-- [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
