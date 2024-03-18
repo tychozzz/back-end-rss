@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-15 10:00:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-18 10:00:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)  
+- [美团技术](#美团技术)![](/assets/dot.png)   
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -20,6 +20,7 @@
 </summary>
 
 
+- [2024-03-15-美团大规模KV存储挑战与架构实践](https://tech.meituan.com/2024/03/15/kv-squirrel-cellar.html) ![](/assets/new.png)  
 - [2024-02-29-基于接口数据变异的App健壮性测试实践](https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html)  
 - [2024-02-01-美团技术年货-|-600+页电子书，前端、后端、算法、测试、运维系列大合集](https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html)  
 - [2024-01-25-分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html)  
@@ -39,7 +40,6 @@
 - [2023-08-03-美团前端研发框架Rome实践和演进趋势](https://tech.meituan.com/2023/08/03/meituan-rome-practice.html)  
 - [2023-07-27-斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)  
 - [2023-07-20-美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html)  
-- [2023-07-13-美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html)  
 - [......【查看更多】......](/details/美团技术.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -139,7 +139,7 @@
 </summary>
 
 
-- [2024-03-15-科技爱好者周刊（第-293-期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) ![](/assets/new.png)  
+- [2024-03-15-科技爱好者周刊（第-293-期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)  
 - [2024-03-08-科技爱好者周刊（第-292-期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)  
 - [2024-03-01-科技爱好者周刊（第-291-期）：AI-没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)  
 - [2024-02-23-科技爱好者周刊（第-290-期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)  
