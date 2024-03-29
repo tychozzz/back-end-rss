@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-29 10:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-29 12:00:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)  
+- [美团技术](#美团技术)![](/assets/dot.png)   
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -20,6 +20,7 @@
 </summary>
 
 
+- [2024-03-29-百亿大规模图在广告场景的应用](https://tech.meituan.com/2024/03/29/large-scale-graph-application.html) ![](/assets/new.png)  
 - [2024-03-21-大众点评内容搜索算法优化的探索与实践](https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html)  
 - [2024-03-15-美团大规模KV存储挑战与架构实践](https://tech.meituan.com/2024/03/15/kv-squirrel-cellar.html)  
 - [2024-02-29-基于接口数据变异的App健壮性测试实践](https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html)  
@@ -39,7 +40,6 @@
 - [2023-08-24-如何提供一个可信的AB测试解决方案](https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html)  
 - [2023-08-11-KDD-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html)  
 - [2023-08-03-美团前端研发框架Rome实践和演进趋势](https://tech.meituan.com/2023/08/03/meituan-rome-practice.html)  
-- [2023-07-27-斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)  
 - [......【查看更多】......](/details/美团技术.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -139,7 +139,7 @@
 </summary>
 
 
-- [2024-03-29-科技爱好者周刊（第-295-期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html) ![](/assets/new.png)  
+- [2024-03-29-科技爱好者周刊（第-295-期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)  
 - [2024-03-26-2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)  
 - [2024-03-22-科技爱好者周刊（第-294-期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)  
 - [2024-03-15-科技爱好者周刊（第-293-期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)  
