@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-29 12:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-12 08:00:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Go
 
@@ -92,6 +92,7 @@
 - [2016-07-20-【预告】饿了么、唯品会、蘑菇街、同程旅游同台解密互联网架构的基石](https://posts.careerengine.us/p/5c50b0142359085cf0d6fce8) 
 - [2016-07-18-10个互联网团队应对高压的容量评估与高可用体系：私董会1期](https://posts.careerengine.us/p/5c50aded2b049b59316d9db3) 
 - [2016-07-14-余额宝技术架构及演进](https://posts.careerengine.us/p/5c50be46628621750089ede5) 
+- [2024-04-12-科技爱好者周刊（第-296-期）：xz-后门的作者-Jia-Tan-是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) 
 - [2024-03-29-科技爱好者周刊（第-295-期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html) 
 - [2024-03-26-2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html) 
 - [2024-03-22-科技爱好者周刊（第-294-期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html) 

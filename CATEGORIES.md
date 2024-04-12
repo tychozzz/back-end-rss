@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-29 12:00:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-12 08:00:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [美团技术](#美团技术)![](/assets/dot.png)   
+- [美团技术](#美团技术)  
 - [阿里技术](#阿里技术)  
 - [阿里巴巴中间件](#阿里巴巴中间件)  
 - [Thoughtworks洞见](#thoughtworks洞见)  
 - [高可用架构](#高可用架构)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [有赞技术团队](#有赞技术团队)  
 
 ## 文章链接
@@ -20,7 +20,7 @@
 </summary>
 
 
-- [2024-03-29-百亿大规模图在广告场景的应用](https://tech.meituan.com/2024/03/29/large-scale-graph-application.html) ![](/assets/new.png)  
+- [2024-03-29-百亿大规模图在广告场景的应用](https://tech.meituan.com/2024/03/29/large-scale-graph-application.html)  
 - [2024-03-21-大众点评内容搜索算法优化的探索与实践](https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html)  
 - [2024-03-15-美团大规模KV存储挑战与架构实践](https://tech.meituan.com/2024/03/15/kv-squirrel-cellar.html)  
 - [2024-02-29-基于接口数据变异的App健壮性测试实践](https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html)  
@@ -139,6 +139,7 @@
 </summary>
 
 
+- [2024-04-12-科技爱好者周刊（第-296-期）：xz-后门的作者-Jia-Tan-是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) ![](/assets/new.png)  
 - [2024-03-29-科技爱好者周刊（第-295-期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)  
 - [2024-03-26-2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)  
 - [2024-03-22-科技爱好者周刊（第-294-期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)  
@@ -158,7 +159,6 @@
 - [2023-11-24-科技爱好者周刊（第-279-期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html)  
 - [2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)  
 - [2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)  
-- [2023-11-03-科技爱好者周刊（第-276-期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
