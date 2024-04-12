@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-12 08:00:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-12 12:00:42。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,6 +46,7 @@
 
 
 
+- [【美团技术】美团外卖基于GPU的向量检索系统实践](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html)
 - [【美团技术】百亿大规模图在广告场景的应用](https://tech.meituan.com/2024/03/29/large-scale-graph-application.html)
 - [【美团技术】大众点评内容搜索算法优化的探索与实践](https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html)
 - [【美团技术】美团大规模KV存储挑战与架构实践](https://tech.meituan.com/2024/03/15/kv-squirrel-cellar.html)
@@ -65,7 +66,6 @@
 - [【美团技术】如何提供一个可信的AB测试解决方案](https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html)
 - [【美团技术】KDD-2023-|-美团技术团队精选论文解读](https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html)
 - [【美团技术】美团前端研发框架Rome实践和演进趋势](https://tech.meituan.com/2023/08/03/meituan-rome-practice.html)
-- [【美团技术】斩获CVPR-2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)
 - [......【查看更多】......](/details/tags/go.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
