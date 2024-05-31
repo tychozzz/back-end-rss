@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-05-29 10:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-31 10:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Go
 
@@ -96,6 +96,7 @@
 - [2016-07-20-【预告】饿了么、唯品会、蘑菇街、同程旅游同台解密互联网架构的基石](https://posts.careerengine.us/p/5c50b0142359085cf0d6fce8) 
 - [2016-07-18-10个互联网团队应对高压的容量评估与高可用体系：私董会1期](https://posts.careerengine.us/p/5c50aded2b049b59316d9db3) 
 - [2016-07-14-余额宝技术架构及演进](https://posts.careerengine.us/p/5c50be46628621750089ede5) 
+- [2024-05-31-科技爱好者周刊（第-302-期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) 
 - [2024-05-29-分布式数据库入门：以国产数据库-TDSQL-为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html) 
 - [2024-05-24-科技爱好者周刊（第-301-期）：OpenAI-的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html) 
 - [2024-05-17-科技爱好者周刊（第-300-期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html) 
