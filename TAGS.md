@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-14 10:00:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-14 18:00:41。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,6 +46,7 @@
 
 
 
+- [【美团技术】CVPR-2024-|-美团技术团队精选论文解读](https://tech.meituan.com/2024/06/13/cvpr-2024.html)
 - [【美团技术】领域驱动设计DDD在B端营销系统的实践](https://tech.meituan.com/2024/05/27/ddd-in-business.html)
 - [【美团技术】基于多模态信息抽取的菜品知识图谱构建](https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html)
 - [【美团技术】DDD在大众点评交易系统演进中的应用](https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html)
@@ -65,7 +66,6 @@
 - [【美团技术】如何利用「深度上下文兴趣网络」提升点击率？](https://tech.meituan.com/2023/11/09/how-to-model-context-information-in-deep-interest-network.html)
 - [【美团技术】基于模式挖掘的可靠性治理探索](https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html)
 - [【美团技术】代码变更风险可视化系统建设与实践](https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html)
-- [【美团技术】美团多场景建模的探索与实践](https://tech.meituan.com/2023/09/14/demand-side-platform.html)
 - [......【查看更多】......](/details/tags/go.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
